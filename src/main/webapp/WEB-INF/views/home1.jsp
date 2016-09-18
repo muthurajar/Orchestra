@@ -272,10 +272,9 @@
   <body>
 
 <h1>Muthu raja here</h1>
+<h1>Muthu  here</h1>
 
     <!-- NAVBAR
-    ================================================== -->
-    <div class="navbar-wrapper">
       <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
       <div class="container">
 
